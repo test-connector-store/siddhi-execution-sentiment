@@ -1,0 +1,19 @@
+{
+    "name": "sentiment",
+    "owner": "WSO2",
+    "category": "Siddhi Execution",
+    "documentationUrl": "https://wso2-extensions.github.io/siddhi-execution-sentiment/",
+    "description": "The siddhi-execution-sentiment extension is an extension to Siddhi that performs sentiment analysis using Afinn Wordlist-based approach.",
+    "status": "Active",
+    "labels": [
+        "siddhi",
+        "siddhi-execution",
+        "sentiment"
+    ],
+    "releases": [
+        {
+            "tagName": "4.1.1",
+            "products": []
+        }
+    ]
+}
